@@ -2,11 +2,11 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/	 	/*Update Interval*/	/*Update Signal*/
        
-      //{" ", "~/git/dwmblocks/scripts/",                             ,                           },
+      //{" ", "~/dotfiles/dwmblocks/scripts/",                             ,                           },
       
-	{" ", "~/git/dwmblocks/scripts/battery",		        5,		             3},
+	{" ", "~/dotfiles/dwmblocks/scripts/battery",		        5,		             3},
 
-	{" ", "~/git/dwmblocks/scripts/clock",                      60,                           1},
+	{" ", "~/dotfiles/dwmblocks/scripts/clock",                      60,                           1},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
