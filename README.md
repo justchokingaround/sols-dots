@@ -5,5 +5,5 @@
 
 ### Credits
 
-- [Distrotube](https://www.youtube.com/c/DistroTube/) for his build of dwmblocks. (edited to fit my needs)
-- [Luke Smith](https://lukesmith.xyz/) for his scripts. (edited to fit my needs)
+- [Distrotube](https://www.youtube.com/c/DistroTube/) for his build of dwmblocks.
+- [Luke Smith](https://lukesmith.xyz/) for his scripts.
