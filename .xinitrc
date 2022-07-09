@@ -2,10 +2,10 @@
 
 #rfkill unblock all& #because my laptop's wifi keeps getting blocked
 
+#picom -b
+
 feh ~/dotfiles/artix.png --bg-fill
 
 dwmblocks&
-
-#picom -b
 
 exec dwm
