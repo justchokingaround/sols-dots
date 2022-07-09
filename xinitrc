@@ -1,6 +1,6 @@
 setxkbmap -layout us,us,us -variant intl,dvorak -option grp:win_space_toggle caps:backspace
 
-rfkill unblock all&
+rfkill unblock all& # because my laptop's wifi keeps getting blocked
 
 feh artix.png --bg-fill
 
