@@ -6,6 +6,12 @@ picom -b
 
 feh ~/dotfiles/artix.png --bg-fill
 
+
+# Keyboard Layout
+setxkbmap fr-latin9 &
+#xbindkeys &
+#sxhkd &
+
 dwmblocks&
 
 exec dwm
