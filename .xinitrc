@@ -2,7 +2,7 @@
 
 #rfkill unblock all& #because my laptop's wifi keeps getting blocked
 
-#picom -b
+picom -b
 
 feh ~/dotfiles/artix.png --bg-fill
 
