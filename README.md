@@ -1,1 +1,1 @@
-the 'us' file includes a the ISRT layout
+the 'us' file includes the ISRT layout
